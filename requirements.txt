@@ -1,0 +1,12 @@
+jupyter
+notebook
+pandas
+numpy
+seaborn
+matplotlib
+nba_api
+unidecode
+requests
+datetime
+gdown
+folium
