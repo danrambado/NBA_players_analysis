@@ -6,8 +6,8 @@ Build a dataset in pandas data frame format with information about all active pl
  All the data will be obtain from stats.nba.com using this Python library https://github.com/swar/nba_api, except the contract information. 
 ## Run the notebook:
 You need to:
-- [optional] create an virtual enviroment.
-- install all the requirements in the requirements.txt.
+- [optional] create a virtual enviroment.
+- install all the requirements in requirements.txt.
 
 ## Introduction
 ### A brief description of basketball and the NBA
